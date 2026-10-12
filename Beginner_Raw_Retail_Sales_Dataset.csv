@@ -1,0 +1,82 @@
+﻿Order ID,Order Date,Region,Sales Channel,Category,Product,Quantity,Unit Price (₹),Sales (₹)
+ORD-001,24-11-2025,South,Online,Electronics,Wireless Mouse,3,681.77,2045.31
+ORD-002,07-10-2025,North,Online,Electronics,Headphones,4,1712.13,6848.52
+ORD-003,05-11-2025,West,Online,Electronics,Headphones,2,1797.89,3595.78
+ORD-004,23-05-2025,South,Online,Electronics,Wireless Mouse,4,721.88,2887.52
+ORD-005,22-06-2025,East,Store,Electronics,Wireless Mouse,4,700.42,2801.68
+ORD-006,24-08-2025,East,Online,Electronics,Keyboard,1,1266.01,1266.01
+ORD-007,24-01-2025,,Store,Home & Kitchen,Storage Box,1,480.58,480.58
+ORD-008,22-11-2025,East,Online,Stationery,Notebook Set,3,227.48,682.44
+ORD-009,29-03-2025,South,Store,Home & Kitchen,Water Bottle,4,379.9,1519.6
+ORD-010,29-01-2025,North,Online,Home & Kitchen,Water Bottle,3,385.31,1155.93
+ORD-011,18-10-2025,West,Online,Stationery,Notebook Set,4,210.82,843.28
+ORD-012,07-05-2025,West,Store,Stationery,Desk Organizer,5,426.71,2133.55
+ORD-013,12-03-2025,South,Online,Accessories,Backpack,1,1503.96,1503.96
+ORD-014,05-08-2025,West,Store,electronics ,Keyboard,4,1336.36,5345.44
+ORD-015,06-01-2025,East,Online,Electronics,Headphones,5,1736.23,8681.15
+ORD-016,22-03-2025,South,Online,Accessories,Backpack,3,1528.12,4584.36
+ORD-017,02-06-2025,North,Store,Home & Kitchen,Water Bottle,3,352.62,1057.86
+ORD-018,27-02-2025,North,Online,Stationery,Pen Pack,2,127.32,254.64
+ORD-019,05-02-2025,South,Store,Home & Kitchen,Water Bottle,4,355.63,1422.52
+ORD-020,07-11-2025,South,Store,Accessories,Backpack,5,1382.89,6914.45
+ORD-021,10-12-2025,South,Online,Stationery,Pen Pack,5,109.69,548.45
+ORD-022,11-01-2025,North,Online,Home & Kitchen,Mixer Grinder,2,2378.55,
+ORD-023,17-01-2025,West,Online,Stationery,Notebook Set,5,224.1,1120.5
+ORD-024,20-10-2025,South,Online,Accessories,Backpack,4,1289.85,5159.4
+ORD-025,09-08-2025,North,Online,Stationery,Pen Pack,4,109.6,438.4
+ORD-026,23-06-2025,West,Online,Electronics,Wireless Mouse,2,645.33,1290.66
+ORD-027,23-05-2025,North,Online,Accessories,Backpack,1,1460.86,1460.86
+ORD-028,04-10-2025,West,Store,Electronics,Wireless Mouse,2,615.57,1231.14
+ORD-029,25-07-2025,West,Store,Electronics,Wireless Mouse,4,717.49,2869.96
+ORD-030,21-08-2025,West,Online,Stationery,Pen Pack,5,113.01,565.05
+ORD-031,22-04-2025,,Online,Electronics,Headphones,5,1639.86,8199.3
+ORD-032,02-09-2025,South,Online,Home & Kitchen,Water Bottle,5,360.82,1804.1
+ORD-033,12-12-2025,South,Online,Home & Kitchen,Storage Box,1,518.13,518.13
+ORD-034,03-08-2025,East,Online,Stationery,Pen Pack,2,115.01,230.02
+ORD-035,09-03-2025,North,Online,Stationery,Pen Pack,3,120.1,360.3
+ORD-036,16-10-2025,East,Online,Electronics,Wireless Mouse,5,718.46,3592.3
+ORD-037,05-02-2025,East,Online,Home & Kitchen,Storage Box,3,523.46,1570.38
+ORD-038,11-10-2025,South,Store,Stationery,Desk Organizer,1,416.43,416.43
+ORD-039,24-02-2025,south,Online,Home & Kitchen,Storage Box,3,525.62,1576.86
+ORD-040,16-05-2025,West,Store,Accessories,Phone Case,1,272.91,272.91
+ORD-041,20-06-2025,West,Store,Home & Kitchen,Mixer Grinder,3,2660.84,7982.52
+ORD-042,27-02-2025,East,Online,Electronics,Headphones,2,1790.2,3580.4
+ORD-043,22-01-2025,South,Online,Stationery,Pen Pack,1,125.61,125.61
+ORD-044,01-07-2025,South,Online,Accessories,USB Cable,2,278.69,557.38
+ORD-045,01-04-2025,East,Store,Accessories,Backpack,2,1507.09,3014.18
+ORD-046,08-05-2025,North,Store,Stationery,Notebook Set,1,208.77,208.77
+ORD-047,24-08-2025,South,Store,Stationery,Pen Pack,2,116.67,233.34
+ORD-048,05-02-2025,East,Online,Stationery,Pen Pack,5,111.05,555.25
+ORD-049,14-05-2025,West,Store,Home & Kitchen,Mixer Grinder,3,2756.73,8270.19
+ORD-050,10-06-2025,South,Store,Accessories,USB Cable,5,227.44,1137.2
+ORD-051,12-08-2025,South,Store,Electronics,Headphones,5,1790.79,8953.95
+ORD-052,07-12-2025,North,Store,Stationery,Desk Organizer,3,455.21,1365.63
+ORD-053,08-12-2025,South,Online,Accessories,Phone Case,4,297.75,1191
+ORD-054,14-07-2025,North,Store,Home & Kitchen,Mixer Grinder,5,2504.11,12520.55
+ORD-055,09-08-2025,South,Store,Stationery,Pen Pack,4,128.95,515.8
+ORD-056,28-03-2025,East,Online,Electronics,Keyboard,5,1296.06,6480.3
+ORD-057,01-05-2025,North,Online,Stationery,Notebook Set,2,245.62,491.24
+ORD-058,09-11-2025,South,Store,Electronics,Keyboard,4,1210.52,4842.08
+ORD-059,05-05-2025,North,Store,Home & Kitchen,Mixer Grinder,1,2465.18,2465.18
+ORD-060,23-12-2025,North,Store,Accessories,Backpack,5,1301.07,6505.35
+ORD-061,26-08-2025,West,Store,Stationery,Pen Pack,5,131.69,658.45
+ORD-062,01-09-2025,East,Store,Accessories,Phone Case,2,311.37,622.74
+ORD-063,21-05-2025,East,Store,Accessories,Backpack,3,1535.05,4605.15
+ORD-064,11-02-2025,South,Online,Home & Kitchen,Water Bottle,2,319.95,639.9
+ORD-065,28-07-2025,South,Store,Stationery,Desk Organizer,4,443.56,1774.24
+ORD-066,27-10-2025,East,Store,Electronics,Headphones,4,1918.38,
+ORD-067,03-08-2025,West,Online,Home & Kitchen,Storage Box,2,492.77,985.54
+ORD-068,09-12-2025,South,Online,Accessories,USB Cable,2,274.88,549.76
+ORD-069,31-10-2025,West,Online,Electronics,Wireless Mouse,4,592.19,2368.76
+ORD-070,14-07-2025,West,Store,Stationery,Notebook Set,4,234.4,937.6
+ORD-071,04-08-2025,North,Store,Stationery,Notebook Set,4,208.85,835.4
+ORD-072,05-02-2025,North,Online,Electronics,Wireless Mouse,2,619.11,1238.22
+ORD-073,31-08-2025,East,Store,Electronics,Headphones,2,1686.44,3372.88
+ORD-074,07-11-2025,North,Store,Electronics,Wireless Mouse,3,667.34,2002.02
+ORD-075,12-07-2025,South,Online,Accessories,USB Cable,2,263.35,526.7
+ORD-076,04-06-2025,West,Store,Electronics,Headphones,1,1647.31,1647.31
+ORD-077,28-11-2025,North,Store,Stationery,Notebook Set,4,244.5,978
+ORD-078,22-11-2025,East,Store,Accessories,USB Cable,2,250.57,501.14
+ORD-079,31-10-2025,North,Store,Stationery,Pen Pack,2,131.28,262.56
+ORD-080,05-05-2025,East,Online,Accessories,USB Cable,5,252.19,1260.95
+ORD-012,07-05-2025,West,Store,Stationery,Desk Organizer,5,426.71,2133.55
