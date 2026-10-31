@@ -1,36 +1,26 @@
-# Retail Sales Analysis Dashboard
+# ShadowFox Retail Sales Analysis
 
-## Project Overview
-This project analyzes a retail sales dataset using Microsoft Excel
-and Power Query. It demonstrates beginner-level data cleaning,
-exploratory analysis, visualization, and dashboard creation.
+This repository contains my retail sales analysis project, including an Excel workbook and Power BI dashboard.
+
+## Project Files
+
+| File | Description |
+|---|---|
+| `Beginner_Raw_Retail_Sales_Dataset.csv` | Retail sales dataset |
+| `Retail_Sales.xlsx` | Beginner-level analysis in Excel |
+| `HR analytics dashboard.pbix` | Intermediate-level HR analytics dashboard |
+| `REPORT.pbix` | Advanced-level Power BI report |
 
 ## Tools Used
+
 - Microsoft Excel
+- Microsoft Power BI Desktop
 - Power Query
-- PivotTables
-- PivotCharts
 
-## Project Tasks
-- Data cleaning and preparation using Power Query
-- Handling missing values and duplicate records
-- Calculating key sales metrics
-- Monthly sales trend analysis
-- Category-wise sales analysis
-- Region-wise sales analysis
-- Dashboard creation
-- Business insights and recommendations
+## How to View the Reports
 
-## Key Metrics
-- Total Revenue
-- Total Orders
-- Total Quantity Sold
-- Average Order Value
-
-## Dataset
-The dataset is synthetic practice data created for learning
-and demonstration purposes. It does not represent actual
-company sales.
+Download the `.pbix` file you want to view, then open it in **Power BI Desktop**.
 
 ## Author
+
 Bhumika Dave
